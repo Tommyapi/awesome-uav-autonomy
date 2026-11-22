@@ -101,6 +101,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 - [PX4 Collision Prevention](https://docs.px4.io/main/en/computer_vision/collision_prevention.html)
 - [ArduPilot Rangefinder + Avoidance APIs](https://ardupilot.org/copter/docs/ac2_simple_avoidance.html)
+- [Laser Rangefinder as a UAV Altimeter (ArduPilot / PX4 guide)](https://github.com/ErdiTech/drone-altimeter-laser-rangefinder-guide) – Choosing 905 vs 1535 nm, update rate, interfaces, mounting and an ArduPilot quick setup for a single-point laser rangefinder used for height hold and terrain following.
 - [VOXL Avoidance](https://modalai.com/pages/voxl) – Qualcomm-based perception/avoidance.
 - [ROS Costmap_2D](https://wiki.ros.org/costmap_2d) – Local obstacle maps for avoidance.
 - [Safety Pilot / Failsafe Modules](https://docs.px4.io/main/en/config/safety.html)
